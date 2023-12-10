@@ -1,16 +1,8 @@
-# fake_shop_f_ui
++ Примечание.
+Я расширяю свое представление разработки мобильных приожений (flutter) 🙂
 
-A new Flutter project.
+![screenshot-2023-12-10_06 56 05 85](https://github.com/Mingaleev-D92/fake_shop_f_ui/assets/61611031/aacd4ccc-d7b1-40f4-9efe-286f0c65c581)
+![screenshot-2023-12-10_06 56 14 433](https://github.com/Mingaleev-D92/fake_shop_f_ui/assets/61611031/f0f60b44-5b69-4626-a806-bdfe37a94484)
+![screenshot-2023-12-10_06 56 23 969](https://github.com/Mingaleev-D92/fake_shop_f_ui/assets/61611031/ec4cbbde-c4f8-4833-8dda-d989bcbddc61)
+![screenshot-2023-12-10_06 56 38 929](https://github.com/Mingaleev-D92/fake_shop_f_ui/assets/61611031/3d45eb86-90f3-4e43-8036-d5d44dc4e852)
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
